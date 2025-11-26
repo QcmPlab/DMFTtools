@@ -1,3 +1,8 @@
+# `⚠rchived` 
+> The development of DMFTtools has moved [elsewhere](https://github.com/aamaricci/DMFTtools), so this repository is now archived: it will not be updated (you cannot push, we will not sync with the new upstream) nor deleted, to preserve any possible links (git remotes in local clones, git submodules, etc.) to break.
+-----
+
+
 # DMFTtools  
 This is a collection of fortran modules and routines to support quantum many-body calculations, with a strong focus on Dynamical Mean-Field Theory.
 
@@ -87,7 +92,6 @@ adriano DOT amaricci @ gmail DOT com
 --
 
 ***LICENSE***  
-<<<<<<< HEAD
 Copyright (C) Adriano Amaricci, Gabriele Bellomia, Samuele Giuli, Lorenzo Crippa, Giacomo Mazza
 
 This program is free software: you can redistribute it and/or modify
